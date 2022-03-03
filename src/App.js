@@ -1,25 +1,79 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <div className="flex justify-center py-8">
+            <div className="grid grid-cols-3 gap-10 max-w-screen-2xl">
+
+                <div className="card w-96 bg-base-100 shadow-xl">
+                    <figure><img src="https://api.lorem.space/image/shoes?w=400&h=225" alt="Shoes"/></figure>
+                    <div className="card-body">
+                        <h2 className="card-title">Shoes!</h2>
+                        <p>If a dog chews shoes whose shoes does he choose?</p>
+                        <div className="card-actions justify-end">
+                            <button className="btn btn-primary">Buy Now</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="card w-96 bg-base-100 shadow-xl">
+                    <figure><img src="https://api.lorem.space/image/shoes?w=400&h=225" alt="Shoes"/></figure>
+                    <div className="card-body">
+                        <h2 className="card-title">Shoes!</h2>
+                        <p>If a dog chews shoes whose shoes does he choose?</p>
+                        <div className="card-actions justify-end">
+                            <button className="btn btn-primary">Buy Now</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="card w-96 bg-base-100 shadow-xl">
+                    <figure><img src="https://api.lorem.space/image/shoes?w=400&h=225" alt="Shoes"/></figure>
+                    <div className="card-body">
+                        <h2 className="card-title">Shoes!</h2>
+                        <p>If a dog chews shoes whose shoes does he choose?</p>
+                        <div className="card-actions justify-end">
+                            <button className="btn btn-primary">Buy Now</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="card w-96 bg-base-100 shadow-xl">
+                    <figure><img src="https://api.lorem.space/image/shoes?w=400&h=225" alt="Shoes"/></figure>
+                    <div className="card-body">
+                        <h2 className="card-title">Shoes!</h2>
+                        <p>If a dog chews shoes whose shoes does he choose?</p>
+                        <div className="card-actions justify-end">
+                            <button className="btn btn-primary">Buy Now</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="card w-96 bg-base-100 shadow-xl">
+                    <figure><img src="https://api.lorem.space/image/shoes?w=400&h=225" alt="Shoes"/></figure>
+                    <div className="card-body">
+                        <h2 className="card-title">Shoes!</h2>
+                        <p>If a dog chews shoes whose shoes does he choose?</p>
+                        <div className="card-actions justify-end">
+                            <button className="btn btn-primary">Buy Now</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="card w-96 bg-base-100 shadow-xl">
+                    <figure><img src="https://api.lorem.space/image/shoes?w=400&h=225" alt="Shoes"/></figure>
+                    <div className="card-body">
+                        <h2 className="card-title">Shoes!</h2>
+                        <p>If a dog chews shoes whose shoes does he choose?</p>
+                        <div className="card-actions justify-end">
+                            <button className="btn btn-primary">Buy Now</button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    );
 }
 
 export default App;
