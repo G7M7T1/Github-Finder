@@ -2,8 +2,8 @@ import React from "react";
 
 function App() {
     return (
-        <div className="flex justify-center py-8">
-            <div className="grid grid-cols-3 gap-10 max-w-screen-2xl">
+        <div className="flex justify-center bg-white py-10">
+            <div className="grid grid-cols-3 gap-10 max-w-screen-2xl pb-56">
 
                 <div className="card w-96 bg-base-100 shadow-xl">
                     <figure><img src="https://api.lorem.space/image/shoes?w=400&h=225" alt="Shoes"/></figure>
