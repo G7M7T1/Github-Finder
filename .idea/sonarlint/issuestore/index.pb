@@ -8,8 +8,6 @@ A
 src/App.js,1\e\1e43fa63aecd2127be034b3fb9d4caa172275714
 <
 package.json,7\0\7030d0b2f71b999ff89a343de08c414af32fc93a
-P
- src/components/layout/Footer.jsx,5\d\5d3262781947b9142cd66856bd866e7fe6ea1370
 C
 src/pages/About.jsx,f\c\fcad63f0891a8395b39928f4961bb065edb79c37
 B
@@ -18,13 +16,3 @@ F
 src/pages/NotFound.jsx,0\f\0fd26c0d3021f12cc22c9ac0036c0f3caab65157
 4
 .env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
-<
-src/index.js,f\9\f900edc44cb929c2267a16100a32851f6d5b477d
-P
- src/components/layout/Navbar.jsx,c\6\c63ccaaccf5ca2cae09d4a247aedc3e1c1917ed5
-B
-src/pages/Home.jsx,4\3\430200dcc19df010a7afe234d14af8f3c4a0b33b
-T
-$src/components/users/UserResults.jsx,e\c\eccbf4fad9156ec0ad7a37fe0d865c71c73f371d
-=
-src/index.css,c\5\c5d38a62d1faae90a2acaa34b79a7ef365c917e4
