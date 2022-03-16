@@ -15,14 +15,10 @@ Q
 !src/components/layout/Spinner.jsx,f\9\f9299adc1c25de231f0e270cdc850befaf256c50
 P
  src/components/layout/Footer.jsx,5\d\5d3262781947b9142cd66856bd866e7fe6ea1370
-4
-.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
 <
 src/index.js,f\9\f900edc44cb929c2267a16100a32851f6d5b477d
 P
  src/components/layout/Navbar.jsx,c\6\c63ccaaccf5ca2cae09d4a247aedc3e1c1917ed5
-B
-src/pages/Home.jsx,4\3\430200dcc19df010a7afe234d14af8f3c4a0b33b
 :
 
 src/App.js,1\e\1e43fa63aecd2127be034b3fb9d4caa172275714
