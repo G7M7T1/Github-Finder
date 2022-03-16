@@ -19,6 +19,3 @@ P
 src/index.js,f\9\f900edc44cb929c2267a16100a32851f6d5b477d
 P
  src/components/layout/Navbar.jsx,c\6\c63ccaaccf5ca2cae09d4a247aedc3e1c1917ed5
-:
-
-src/App.js,1\e\1e43fa63aecd2127be034b3fb9d4caa172275714
