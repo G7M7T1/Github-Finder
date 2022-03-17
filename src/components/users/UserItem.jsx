@@ -9,7 +9,7 @@ function UserItem ({user}) {
                 <div>
                     <div className="avatar">
                         <div className="rounded-full shadow-2xl w-14 h-14">
-                            <img src={user.avatar_url} alt="User Photo"/>
+                            <img src={user.avatar_url} alt="UserIMG"/>
                         </div>
                     </div>
                 </div>
