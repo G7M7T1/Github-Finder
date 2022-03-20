@@ -40,3 +40,15 @@ Q
 !src/components/repos/RepoItem.jsx,4\0\4012d4a828a3dbf5d2682c19550b9ac0c02f0843
 Q
 !src/components/repos/RepoList.jsx,4\d\4d335a800f3daccd8bdf5eff89c8e5ed4021f715
+T
+$src/context/github/GithubContext.jsx,8\d\8dbfe00fa45c73a3f8cb788fe33317f43888b9a6
+T
+$src/context/github/GithubReducer.jsx,5\3\531ae6ee417c781c48bc4738b328719f2cf296bd
+S
+#src/components/users/UserSearch.jsx,0\d\0df8e2f994c7cf97641345112ce72e51fae565f9
+R
+"src/context/alert/AlertReducer.jsx,e\b\eb13b706e5836f76a35dc6d55540da83a5c4d517
+S
+#src/context/github/GithubActions.js,9\d\9db11dc3ff08210c956495e26c6184ca7c097ef8
+B
+src/pages/User.jsx,d\8\d8d1b197808775779d70b1d9d31d4702d46b2d4a
